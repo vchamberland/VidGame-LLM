@@ -1,0 +1,2544 @@
+[
+    {
+        "id": 0,
+        "video": "videos/sub-01_ses-003_task-shinobi_run-01_level-1_rep-01.mp4",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 0.968s and 1.118s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 1.185s and 1.334s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 1.885s and 2.036s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 2.085s and 2.236s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 2.920s and 3.071s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 3.287s and 3.438s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 3.471s and 3.621s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 3.838s and 3.988s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 4.105s and 4.256s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 4.238s and 4.389s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 4.889s and 5.040s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 5.107s and 5.256s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 5.157s and 5.307s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 5.674s and 5.823s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 6.174s and 6.325s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 6.993s and 7.142s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 7.142s and 7.293s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 7.293s and 7.442s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 7.644s and 7.793s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 7.844s and 7.993s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 8.093s and 8.243s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 8.278s and 8.428s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 8.494s and 8.644s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 9.346s and 9.496s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 9.496s and 9.646s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 9.695s and 9.846s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 10.464s and 10.614s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 10.663s and 10.814s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 10.848s and 10.997s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 11.031s and 11.182s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 11.381s and 11.532s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 11.648s and 11.798s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 11.965s and 12.115s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 12.467s and 12.617s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 12.766s and 12.916s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 12.800s and 12.951s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 13.333s and 13.484s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 13.952s and 14.102s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 14.769s and 14.919s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 14.919s and 15.070s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 15.454s and 15.603s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 15.804s and 15.955s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 15.837s and 15.987s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 16.071s and 16.222s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 16.338s and 16.489s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 16.439s and 16.588s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 16.939s and 17.088s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 17.522s and 17.673s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 17.724s and 17.873s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 18.373s and 18.524s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 18.942s and 19.091s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 19.158s and 19.309s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 19.910s and 20.059s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 20.109s and 20.260s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 20.760s and 20.911s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 20.928s and 21.077s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 23.882s and 24.032s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 24.248s and 24.399s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 24.832s and 24.983s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 25.067s and 25.216s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 25.250s and 25.400s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 25.501s and 25.650s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 25.900s and 26.050s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 26.251s and 26.402s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 27.068s and 27.219s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 27.387s and 27.536s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 27.519s and 27.670s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 28.053s and 28.204s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 29.138s and 29.289s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 29.422s and 29.573s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 29.588s and 29.739s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 29.756s and 29.907s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 30.123s and 30.274s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 30.925s and 31.074s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 31.024s and 31.175s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 31.524s and 31.675s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 31.692s and 31.841s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 32.093s and 32.243s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 32.726s and 32.877s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 33.228s and 33.378s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 33.594s and 33.744s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 33.712s and 33.862s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 33.962s and 34.112s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 34.329s and 34.478s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 35.112s and 35.264s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 35.664s and 35.814s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 35.831s and 35.981s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 36.064s and 36.215s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 36.432s and 36.582s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 37.533s and 37.683s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 37.683s and 37.834s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 38.051s and 38.201s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 38.250s and 38.401s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 39.936s and 40.087s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 41.738s and 41.889s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 42.756s and 42.906s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 43.307s and 43.457s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 44.743s and 44.893s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 45.326s and 45.476s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 46.060s and 46.212s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 46.929s and 47.079s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 47.095s and 47.246s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 47.664s and 47.814s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 48.581s and 48.731s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 48.731s and 48.881s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 50.683s and 50.834s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 50.935s and 51.085s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 52.136s and 52.286s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 53.003s and 53.154s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 53.170s and 53.320s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 55.289s and 55.441s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 56.125s and 56.274s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 57.377s and 57.527s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 57.710s and 57.859s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 61.231s and 61.381s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 61.399s and 61.548s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 61.798s and 61.948s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 62.200s and 62.350s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 62.482s and 62.634s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 62.700s and 62.850s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 63.017s and 63.167s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 64.152s and 64.302s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 64.302s and 64.453s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 64.635s and 64.786s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 65.319s and 65.471s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 65.453s and 65.603s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 65.653s and 65.804s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 65.888s and 66.037s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 68.106s and 68.257s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 68.308s and 68.457s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 68.625s and 68.775s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 69.275s and 69.426s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 69.459s and 69.608s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 69.676s and 69.825s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 70.177s and 70.326s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 71.929s and 72.078s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 72.129s and 72.280s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 72.430s and 72.579s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 73.046s and 73.197s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 73.248s and 73.397s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 73.415s and 73.564s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 73.948s and 74.099s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 74.149s and 74.299s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 74.415s and 74.566s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 75.049s and 75.200s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 75.082s and 75.233s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 75.516s and 75.668s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 77.003s and 77.153s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 77.186s and 77.335s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 77.921s and 78.070s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 78.370s and 78.521s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 78.938s and 79.088s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 79.272s and 79.423s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 79.438s and 79.588s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 79.623s and 79.772s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 79.989s and 80.140s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 80.573s and 80.724s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 80.757s and 80.908s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 81.224s and 81.375s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 81.676s and 81.825s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 82.025s and 82.176s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 82.359s and 82.510s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 82.609s and 82.760s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 83.278s and 83.427s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 83.444s and 83.594s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 83.611s and 83.762s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 84.311s and 84.462s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 85.596s and 85.748s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 85.748s and 85.897s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 86.515s and 86.665s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 86.882s and 87.033s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 87.266s and 87.417s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 87.417s and 87.566s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 88.051s and 88.200s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 88.435s and 88.584s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 88.718s and 88.867s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 89.251s and 89.403s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 89.936s and 90.087s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 90.037s and 90.186s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 90.436s and 90.587s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 90.638s and 90.787s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is losing health bars following an injury."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 90.804s and 90.954s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 91.621s and 91.772s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 91.923s and 92.072s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 92.123s and 92.272s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 92.239s and 92.390s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 92.757s and 92.906s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 93.742s and 93.891s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 93.841s and 93.992s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 94.341s and 94.492s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 94.509s and 94.659s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 96.094s and 96.245s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 96.811s and 96.962s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 96.962s and 97.112s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 97.496s and 97.647s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 97.664s and 97.813s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 98.715s and 98.864s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 100.334s and 100.483s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 100.768s and 100.918s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 101.084s and 101.234s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 101.317s and 101.468s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 101.868s and 102.019s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 102.102s and 102.253s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 102.253s and 102.403s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 103.120s and 103.271s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 103.221s and 103.370s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 103.487s and 103.638s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 105.456s and 105.606s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 106.242s and 106.391s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 107.009s and 107.159s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 107.427s and 107.576s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 107.876s and 108.027s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 108.762s and 108.912s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 108.944s and 109.094s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 109.596s and 109.745s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 110.129s and 110.280s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 111.682s and 111.831s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 112.617s and 112.766s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 112.966s and 113.117s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 113.334s and 113.484s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 113.751s and 113.902s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 114.368s and 114.519s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 114.569s and 114.719s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 115.870s and 116.021s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 116.605s and 116.756s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 116.706s and 116.855s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 117.390s and 117.540s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 117.456s and 117.606s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 118.191s and 118.340s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 118.575s and 118.724s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 118.825s and 118.974s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 119.141s and 119.292s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 119.643s and 119.793s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 119.893s and 120.043s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 120.778s and 120.927s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 121.811s and 121.962s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 121.945s and 122.096s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 122.313s and 122.462s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 122.680s and 122.829s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 122.846s and 122.996s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 123.715s and 123.864s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 123.998s and 124.149s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 124.198s and 124.349s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 124.331s and 124.483s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 125.417s and 125.566s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 125.768s and 125.918s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 125.950s and 126.100s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 126.152s and 126.302s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 127.269s and 127.420s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 127.620s and 127.769s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 127.804s and 127.953s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 128.037s and 128.187s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 128.905s and 129.055s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 129.104s and 129.256s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 129.423s and 129.573s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 129.756s and 129.907s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 129.939s and 130.090s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 130.957s and 131.108s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 131.324s and 131.474s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 131.508s and 131.658s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 131.758s and 131.908s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 133.610s and 133.762s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 133.677s and 133.828s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 133.878s and 134.028s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 134.044s and 134.195s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 134.195s and 134.346s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character has defeated an enemy."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 135.247s and 135.396s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 135.413s and 135.563s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 135.681s and 135.830s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 136.331s and 136.481s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 137.500s and 137.650s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 137.650s and 137.800s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 137.849s and 138.001s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 137.866s and 138.016s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 138.401s and 138.550s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 138.501s and 138.651s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is regaining health bars."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 138.717s and 138.867s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 138.951s and 139.102s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 139.085s and 139.235s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 139.218s and 139.368s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 139.603s and 139.752s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 139.770s and 139.919s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is crouching (if on the ground) or moving down (if in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 139.887s and 140.037s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 141.604s and 141.756s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 141.756s and 141.906s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 143.056s and 143.207s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 144.393s and 144.543s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 144.725s and 144.877s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 145.343s and 145.493s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 146.512s and 146.662s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 146.695s and 146.846s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 147.947s and 148.097s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 148.364s and 148.514s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 149.098s and 149.248s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 149.733s and 149.883s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 150.349s and 150.501s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 150.717s and 150.867s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 151.602s and 151.752s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 151.769s and 151.919s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 152.586s and 152.736s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 153.237s and 153.388s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 153.655s and 153.805s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 154.038s and 154.188s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 154.605s and 154.756s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 154.973s and 155.122s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 155.206s and 155.356s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 156.391s and 156.542s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 156.592s and 156.741s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 157.509s and 157.659s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 158.193s and 158.343s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 159.094s and 159.246s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 159.579s and 159.729s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 159.680s and 159.830s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is jumping (can lead to a double-jump if the character is already in the air)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 160.129s and 160.280s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the left (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 161.115s and 161.264s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 161.348s and 161.498s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is moving to the right (e.g., walk, run)."
+            },
+            {
+                "from": "human",
+                "value": "<video> What is happening in the video between 162.233s and 162.383s?"
+            },
+            {
+                "from": "gpt",
+                "value": "The character is attacking an enemy (e.g., sword lunge, air kick, shuriken throw)."
+            }
+        ]
+    }
+]
